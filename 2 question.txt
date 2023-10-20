@@ -1,0 +1,9 @@
+2. Write a blog about objects and its internal representation in Javascript.
+
+	* Objects are the most important data type in JavaScript and are the building blocks of modern Java skip bins.These objects are completely different from JavaScript's primitive data types (boolean, number, string, undefined, symbol, and null).
+
+	* Objects are more complex and each object can contain a combination of these primitive data-types and reference data-types.
+
+
+
+

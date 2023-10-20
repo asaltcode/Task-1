@@ -1,0 +1,10 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2.
+
+HTTP 1.1 :
+        * It performs its action based on the text.
+	* It compresses all data automatically
+	* It uses the resource inline to fetch multiple pages from the server
+HTTP 2 :
+	* It works with binary protocol
+	* It uses HPACK to compress the data
+	* It uses push frames on the server to collect multiple pages
